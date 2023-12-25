@@ -1,5 +1,5 @@
 # RA Management Suit
-
+***This is a mirror of gitlab project, see https://git.cs.usask.ca/vhp437/cmpt370-project***
 The RA Management Suite is a comprehensive platform tailored to the unique demands of Resident Assistants and their coordinators. It seamlessly integrates essential modules such as a calendar and scheduling system to ensure there's always an RA on duty, without hampering their academic commitments. Additionally, it supports event planning and management, and boasts a logging page for vital announcements.
 
 
